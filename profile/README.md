@@ -1,39 +1,23 @@
-# Qleric 
+# Qleric
 
-## About
+Qleric builds tools for **contract extraction and PDF analysis**.
 
-Qleric Labs is an experimental space dedicated to rapid prototyping and practical innovation in legal tech.  
-We explore new approaches, research emerging techniques, build working prototypes, and spin out ideas into focused, open-source tools.
-
-The goal is simple: create tools that are lightweight, privacy-first, and immediately useful to legal professionals and researchers.
+Our focus is on **technical excellence**: accurate extraction, efficient processing, and a smooth user experience.
 
 ---
 
-## Philosophy
+## Open Source
 
-- **Explore** – investigate problems in contracts, legal text, and workflows.  
-- **Research** – combine LLMs, NLP, and structured methods for reliability.  
-- **Build** – develop minimal tools that solve concrete problems.  
-- **Spin out** – release successful experiments as standalone, reusable projects.  
+To comply with licensing requirements, some components are released under **AGPL-3.0**:
 
----
+- **[contract-extractor](https://github.com/qleric/contract-extractor)** — Core extraction engine
 
-## Approach
+These components provide the foundation for extraction and PDF highlighting.
 
-- **Open-source** – MIT licensed, community-friendly  
-- **Privacy-first** – documents stay local, only prompts reach the API  
-- **Rapid development** – prototypes move quickly from idea to tool  
-- **Practical focus** – avoid bloat, ship tools that work  
+For the **full commercial platform**, which includes additional features, simplicity, and an enhanced user experience, see the main [Qleric](https://qleric.com) service.
 
 ---
 
-## Contributing
+## Links
 
-We welcome contributions in the form of ideas, code, patterns, and feedback.  
-Open an issue or pull request to help shape the next generation of lightweight legal tech tools.  
-
----
-
-## License
-
-All projects are released under the MIT License.  
+- [Qleric](https://qleric.com)
